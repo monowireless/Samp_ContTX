@@ -1,3 +1,8 @@
-サンプル-連続送信
-出来る限り送信間隔を短くして連続的に無線パケットを送信します。
-https://github.com/monowireless/Samp_ContTX
+[JAPANESE]
+TITLE=サンプル-連続送信
+DESC=出来る限り送信間隔を短くして連続的に無線パケットを送信します。
+URL=https://github.com/monowireless/Samp_ContTX
+[ENGLISH]
+TITLE=Samp_ContTX
+DESC=Transmit radio packets continuously with the shortest possible transmission interval.
+URL=https://github.com/monowireless/Samp_ContTX
